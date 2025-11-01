@@ -58,9 +58,23 @@
 }
 
 body {
-    background-image: url("https://external-preview.redd.it/uhq5zTcMPM3tOW_fbUz4PayDt_5pkEXdyXXoRWs3XOg.jpg?auto=webp&s=e06461124c1ccfdba7e9ece763b644ff68eeb06b");
+    background-image: url("bliss4k.png");
     background-repeat: no-repeat;
     background-attachment: fixed; 
     background-size: 100% 100%;
 
+}
+
+.news {
+  text-align: left;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+  color: white;
+  margin-left: 6vw;
+  font-size: 2vw;
+}
+
+.title {
+  font-weight: bolder;
+  margin-left: -3vw;
+  font-size: 4vw;
 }

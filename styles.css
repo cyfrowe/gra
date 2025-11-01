@@ -4,7 +4,7 @@
     background-color: rgb(0, 129, 6);
     color: rgb(255, 255, 255);
     border-radius: 28px;
-    padding: 40px;
+    padding: 1vw;
     border: 0px;
     transition: 300ms;
     font-size: 200%;
@@ -14,10 +14,10 @@
 .DLButton:hover {
     background-color: rgb(255, 255, 255);
     color: rgb(0, 129, 6);
-    padding: 50px;
+    padding: 2vw;
     box-shadow: 0px 0px 18px -4px rgb(0, 158, 8);
     font-size: 300%;
-    margin-top: 55px;
+    margin-top: 25vw;
     cursor: pointer;
 }   
 
